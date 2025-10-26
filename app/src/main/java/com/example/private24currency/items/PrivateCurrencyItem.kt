@@ -1,4 +1,4 @@
-package com.example.private24currency.item
+package com.example.private24currency.items
 
 
 import com.google.gson.annotations.SerializedName
